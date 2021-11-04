@@ -1,5 +1,10 @@
+# Neoness
 
-# Introduction au MVC en PHP
+Création d'un site d'une salle de sport a l'aide du mini framework structuré MVC du centre de formation Beweb.
+
+Aout 2021 - 4 mois de formation.
+
+## Introduction au MVC en PHP
 ## Le MVC ? C'est quoi ?
 Avant d'entrer dans le vif du sujet, arrêtons nous quelques instants sur ce qu'est le MVC.
 
