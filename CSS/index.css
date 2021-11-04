@@ -1,0 +1,181 @@
+*{
+    margin: auto;
+}
+
+                                                        /* Header */
+
+header{
+    background-color: #B40606;
+    background-size: 100% 100%;
+    height: 300px;
+}
+   
+.buttonHeader {
+    font-size:30px;
+    font-weight: bold;
+    background: linear-gradient(0deg, #720401 , rgb(158, 2, 2));
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.buttonHeader:hover{
+
+    color: black;
+}
+
+.h1Header {
+    font-size:120px;
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h3Header {
+    font-size: 50px;
+   color:white;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+                                                        /* Content */
+
+.bcg{
+    padding: 1.5rem;
+    background-image: url("https://www.toute-la-franchise.com/images/zoom/news/xl/542474.jpg");
+    background-size: cover;
+}
+
+.form_connexion_inscription{
+
+    background-color: whitesmoke;
+    border : 15px solid rgb(158, 2, 2);
+    height: auto;
+    width: 50%;
+    text-align: center;
+    padding : 10px;
+    
+}
+
+h5{
+
+    color : white;
+}
+
+.perso{
+    color : white;
+}
+
+.formModifPagePerso{
+
+    height: auto;
+    width: auto;
+}
+
+.tdHead{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.whitesmoke{
+
+    color: whitesmoke;
+}
+
+.colorInfo{
+
+        background:-webkit-linear-gradient(left, whitesmoke 30%, black 70%);
+        background-clip:text;
+        -webkit-background-clip:text;
+        color:transparent;
+}
+
+tbody{
+
+    background-color: rgb(158, 2, 2);
+}
+
+.neo{
+
+    color: lightskyblue;
+    font-size: large;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    
+}
+
+.descri{
+
+    color: White;
+    background-color:rgb(158, 2, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border-radius: 10px;
+}
+
+.activite{
+
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color : lightgray;
+}
+
+.imgActivite{
+
+    width : 400px;
+    height : 400px;
+    margin-right: 0px;
+}
+
+.descriActivite{
+
+    color: white;
+    height : auto;
+    margin-top: 150px;
+    background-color: rgb(158, 2, 2);
+    margin-bottom: 150px;
+    border-radius: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.inputAdmin{
+
+    width: 120px;
+}
+
+.btn-danger{
+
+    background-color: #b40606;
+
+}
+
+.btn-danger:hover{
+
+    background-color: rgb(158, 2, 2);
+
+}
+
+.btn-outline-danger:hover{
+
+    background-color: rgb(158, 2, 2);
+}
+
+.colorTextInfoPerso{
+
+    background-color:#b40606;
+    color: whitesmoke;
+}
+
+                                                    /*Footer*/
+
+
+footer {
+
+    background-color:black;
+    background-size: 100% 100%;
+    height: 200px;
+}
+
+.h6Footer {
+    color:white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
